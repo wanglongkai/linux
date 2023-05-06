@@ -22,4 +22,12 @@ http://www.hostbuf.com/downloads/finalshell_install.exe
 
 ## 6. 也可以使用windows10系统的新特性**WSL**获取linux环境
 
+## 7. 虚拟机快照
 
+学习过程中可能损坏linux，快照可以让我们恢复到一个指定的节点
+
+- 虚拟机关机状态
+
+- vmware列表中右键新建快照
+
+- 快照管理器中恢复到指定的快照即可
