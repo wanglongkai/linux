@@ -18,6 +18,8 @@ http://www.hostbuf.com/downloads/finalshell_install.exe
 
 - FinalShell新建到linux的连接
 
-- **注意：**重启虚拟机后ip会变化，需要重新建立连接
+- **注意**: 重启虚拟机后ip会变化，需要重新建立连接
+
+## 6. 也可以使用windows10系统的新特性**WSL**获取linux环境
 
 
